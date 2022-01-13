@@ -2,7 +2,7 @@
 
 _César S. L. for short_
 
-_Full Stack Engineer at [Descomplica](https://descomplica.com.br)_ 
+_Full Stack Software Engineer at [Descomplica](https://descomplica.com.br)_ 
 
 [![Instagram](https://img.shields.io/badge/Instagram-follow-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=f2f2f2)](https://www.instagram.com/cesarsl/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-3A92C1?style=flat-square&logo=linkedin&logoColor=3A92C1&labelColor=f2f2f2)](https://www.linkedin.com/in/cesarliedke/)
