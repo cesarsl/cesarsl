@@ -18,9 +18,19 @@ _Full Stack Software Engineer at [Descomplica](https://descomplica.com.br)_
 ## Technologies & Tools
 
 ![OS Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?logo=arch%20linux&labelColor=f2f2f2&style=flat-square)
+![Shell Zsh](https://img.shields.io/badge/Shell-Zsh-4EAA25?logo=gnu%20bash&labelColor=f2f2f2&style=flat-square)
 ![Editor NeoVim](https://img.shields.io/badge/Editor-NeoVim-57A143?logo=neovim&labelColor=f2f2f2&style=flat-square)
+![Code Make](https://img.shields.io/badge/Code-Make-064F8C?logo=cmake&logoColor=064F8C&labelColor=f2f2f2&style=flat-square)
 ![Code Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&labelColor=f2f2f2&style=flat-square)
+![Code Golang](https://img.shields.io/badge/Code-Golang-00ADD8?logo=go&labelColor=f2f2f2&style=flat-square)
+![Code HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?logo=html5&labelColor=f2f2f2&style=flat-square)
+![Code CSS3](https://img.shields.io/badge/Code-CSS3-1572B6?logo=css3&logoColor=1572B6&labelColor=f2f2f2&style=flat-square)
 ![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=DEC71B&labelColor=f2f2f2&style=flat-square)
+![Code TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&labelColor=f2f2f2&style=flat-square)
+![Code Vue](https://img.shields.io/badge/Code-Vue-4FC08D?logo=vue.js&labelColor=f2f2f2&style=flat-square)
+![Tools Docker](https://img.shields.io/badge/Tools-Docker-2496ED?logo=docker&labelColor=f2f2f2&style=flat-square)
+![Tools MongoDB](https://img.shields.io/badge/Tools-MongoDB-47A248?logo=mongodb&labelColor=f2f2f2&style=flat-square)
+![Tools PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-4169E1?logo=postgresql&labelColor=f2f2f2&style=flat-square)
 
 <!--
 **cesarsl/cesarsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
