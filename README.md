@@ -11,9 +11,9 @@ _Full Stack Engineer at [Descomplica](https://descomplica.com.br)_
 
 ## Past Experience
 
-💻 Since 2018 I'm effectively working as a Software Engineer. 
+💻 Since **2018** I'm effectively working as a **Software Engineer**. 
 
-📊 From 2003 to 2018, worked as an UX Designer. Frequently coded high-fidelity prototypes for UI projects, using HTML/CSS/JS.
+📊 From **2003** to **2018**, worked as an **UX Designer**. Frequently coded high-fidelity prototypes for UI projects, using _HTML/CSS/JS_.
 
 <!--
 **cesarsl/cesarsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
