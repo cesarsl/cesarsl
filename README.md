@@ -17,7 +17,10 @@ _Full Stack Software Engineer at [Descomplica](https://descomplica.com.br)_
 
 ## Technologies & Tools
 
-![OS Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?labelColor=f2f2f2&style=flat-square)
+![OS Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?logo=arch%20linux&labelColor=f2f2f2&style=flat-square)
+![Editor NeoVim](https://img.shields.io/badge/Editor-NeoVim-57A143?logo=neovim&labelColor=f2f2f2&style=flat-square)
+![Code Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&labelColor=f2f2f2&style=flat-square)
+![Code JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=DEC71B&labelColor=f2f2f2&style=flat-square)
 
 <!--
 **cesarsl/cesarsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
