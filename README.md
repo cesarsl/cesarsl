@@ -15,6 +15,10 @@ _Full Stack Software Engineer at [Descomplica](https://descomplica.com.br)_
 
 📊 From **2003** to **2018**, worked as an **UX Designer**. Frequently coded high-fidelity prototypes for UI projects, using _HTML/CSS/JS_.
 
+## Technologies & Tools
+
+![OS Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?labelColor=f2f2f2&style=flat-square)
+
 <!--
 **cesarsl/cesarsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
