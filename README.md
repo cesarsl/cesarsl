@@ -17,7 +17,7 @@ _Full Stack Software Engineer at [Neoway](https://neoway.com.br)_
 
 ## Technologies & Tools
 
-![OS Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?logo=arch%20linux&labelColor=f2f2f2&style=flat-square)
+![OS Arch Linux](https://img.shields.io/badge/OS-Debian-A81D33?logo=debian&logoColor=A81D33&labelColor=f2f2f2&style=flat-square)
 ![Shell Zsh](https://img.shields.io/badge/Shell-Zsh-4EAA25?logo=gnu%20bash&labelColor=f2f2f2&style=flat-square)
 ![Editor NeoVim](https://img.shields.io/badge/Editor-NeoVim-57A143?logo=neovim&labelColor=f2f2f2&style=flat-square)
 ![Code Make](https://img.shields.io/badge/Code-Make-064F8C?logo=cmake&logoColor=064F8C&labelColor=f2f2f2&style=flat-square)
