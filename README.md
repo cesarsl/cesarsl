@@ -6,7 +6,7 @@ _Full Stack Software Engineer | Developer | Designer_
 
 [![Instagram](https://img.shields.io/badge/Instagram-follow-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=f2f2f2)](https://www.instagram.com/cesarsl/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-0A66C2?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=f2f2f2)](https://www.linkedin.com/in/cesarliedke/)
-[![X Follow](https://img.shields.io/badge/X-follow-000000?style=flat-square&logo=x&logoColor=000000&la)](https://twitter.com/cesarsl)
+[![X Follow](https://img.shields.io/badge/X-follow-000000?style=flat-square&logo=x&logoColor=000000&labelColor=FFFFFF)](https://twitter.com/cesarsl)
 [![Website](https://img.shields.io/website?label=GitHub%20Pages&logo=github&logoColor=181717&style=flat-square&url=https%3A%2F%2Fcesarsl.com.br&labelColor=f2f2f2)](https://cesarsl.com.br)
 
 ## Past Experience
