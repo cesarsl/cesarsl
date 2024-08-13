@@ -2,7 +2,7 @@
 
 _César S. L. for short_
 
-_Full Stack Software Engineer | Developer | Designer_ 
+_Full Stack Software Engineer | Developer | Designer_
 
 [![Instagram Follow](https://img.shields.io/badge/-follow-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=f2f2f2)](https://www.instagram.com/cesarsl/)
 [![LinkedIn Follow](https://img.shields.io/badge/-follow-0A66C2?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=f2f2f2)](https://www.linkedin.com/in/cesarliedke/)
@@ -11,13 +11,13 @@ _Full Stack Software Engineer | Developer | Designer_
 
 ## Past Experience
 
-💻 Since **2018** I'm effectively working as a **Software Engineer**. 
+💻 Since **2018** I'm effectively working as a **Software Engineer**.
 
 📊 From **2003** to **2018**, worked as an **UX Designer**. Frequently coded high-fidelity prototypes for UI projects, using _HTML/CSS/JS_.
 
 ## Technologies & Tools
 
-![OS Debian](https://img.shields.io/badge/OS-Debian-A81D33?logo=debian&logoColor=A81D33&labelColor=f2f2f2&style=flat-square)
+![OS Fedora](https://img.shields.io/badge/OS-Fedora-51A2DA?logo=fedora&logoColor=51A2DA&labelColor=f2f2f2&style=flat-square)
 ![Shell Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu%20bash&labelColor=f2f2f2&style=flat-square)
 ![Editor NeoVim](https://img.shields.io/badge/Editor-NeoVim-57A143?logo=neovim&labelColor=f2f2f2&style=flat-square)
 ![Code Make](https://img.shields.io/badge/Code-Make-064F8C?logo=cmake&logoColor=064F8C&labelColor=f2f2f2&style=flat-square)
@@ -44,4 +44,3 @@ _Full Stack Software Engineer | Developer | Designer_
 ![Tools Terraform](https://img.shields.io/badge/Tools-Terraform-623CE4?logo=terraform&labelColor=f2f2f2&style=flat-square)
 ![Tools Ansible](https://img.shields.io/badge/Tools-Ansible-EE0000?logo=ansible&logoColor=EE0000&labelColor=f2f2f2&style=flat-square)
 ![Tools Google Cloud](https://img.shields.io/badge/Tools-Google%20Cloud-4285F4?logo=google%20cloud&labelColor=f2f2f2&style=flat-square)
-
