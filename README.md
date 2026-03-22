@@ -5,7 +5,7 @@ _César S. L. for short_
 _Full Stack Software Engineer | Developer | Designer_
 
 [![Instagram Follow](https://img.shields.io/badge/-follow-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=f2f2f2)](https://www.instagram.com/cesarsl/)
-[![LinkedIn Follow](https://img.shields.io/badge/-follow-0A66C2?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=f2f2f2)](https://www.linkedin.com/in/cesarliedke/)
+[![LinkedIn Follow](https://img.shields.io/badge/-follow-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=0A66C2&labelColor=f2f2f2)](https://www.linkedin.com/in/cesarliedke/)
 [![X Follow](https://img.shields.io/badge/-follow-000000?style=flat-square&logo=x&logoColor=000000&labelColor=FFFFFF)](https://twitter.com/cesarsl)
 
 ## Past Experience
