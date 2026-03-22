@@ -16,7 +16,7 @@ _Full Stack Software Engineer | Developer | Designer_
 
 ## Technologies & Tools
 
-![OS Fedora](https://img.shields.io/badge/OS-Fedora-51A2DA?logo=fedora&logoColor=51A2DA&labelColor=f2f2f2&style=flat-square)
+![OS Arch](https://img.shields.io/badge/OS-Arch-1793D1?logo=archlinux&logoColor=1793D1&labelColor=f2f2f2&style=flat-square)
 ![Shell Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu%20bash&labelColor=f2f2f2&style=flat-square)
 ![Editor NeoVim](https://img.shields.io/badge/Editor-NeoVim-57A143?logo=neovim&labelColor=f2f2f2&style=flat-square)
 ![Code Make](https://img.shields.io/badge/Code-Make-064F8C?logo=cmake&logoColor=064F8C&labelColor=f2f2f2&style=flat-square)
